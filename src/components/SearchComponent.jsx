@@ -24,14 +24,14 @@ const SearchComponent = ({ setCountries,allData }) => {
       style={{
         overflow:'hidden',
         position:'sticky',
-        top:'60px'
+        top:'60px',
       }}
     >
       <div style={{width:'100%',
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
-        padding: "20px",
+       
        
         backgroundColor:'rgb(35, 32, 32)'
         }}>
